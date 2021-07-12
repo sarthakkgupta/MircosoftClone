@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "390737059379",
+    "project_id": "teams-5e541",
+    "storage_bucket": "teams-5e541.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390737059379:android:de9333e7144f1448fe8d46",
+        "android_client_info": {
+          "package_name": "com.example.agoraflutterquickstart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390737059379-mp2a10bpfomva55dr09mbqpnhg4fe7t1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agoraflutterquickstart",
+            "certificate_hash": "26b55f0ab7ba6b2c9f7aa1d9a955e0ba243b11f4"
+          }
+        },
+        {
+          "client_id": "390737059379-ohcncavsqtfdc9ksc2jt0pdu05moi8ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgN6o8-3-YYw5EZ8yORlGl6SRgiLh8ndE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390737059379-ohcncavsqtfdc9ksc2jt0pdu05moi8ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
